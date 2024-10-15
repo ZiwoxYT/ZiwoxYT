@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding, creating unique projects, and constantly pushing my limits. Here's a bit more about me:
 
 - 🔭 I’m currently working on: **Minecraft plugin development** and **Discord bots**.
-- 🌱 I’m currently learning: Advanced **JavaScript**, **Minecraft plugin development** with **Spigot**, and database integration.
+- 🌱 I’m currently learning: Advanced **Minecraft plugin development** with **Spigot**, and database integration.
 - 👯 I’m looking to collaborate on: **Open-source projects** related to gaming, automation, or web development.
 - 🤔 I’m looking for help with: Optimizing my **Minecraft plugin** and improving bot performance in **Discord.js**.
 - 💬 Ask me about: **JavaScript**, **Minecraft plugin dev**, **Discord bots**, or anything tech-related!
