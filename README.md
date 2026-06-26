@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm passionate about coding, creating unique proje
 ###
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZiwoxYT&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZiwoxYT&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiwoxYT&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff"/>
 </div>
 
